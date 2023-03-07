@@ -1,4 +1,4 @@
-#ojosama-translator
+# ojosama-translator
 
 ## 概要
 `ojosama-translator`は世界が素晴らしく素敵であることを再認識するためのSlackbotです。
