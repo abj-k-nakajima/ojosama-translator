@@ -49,6 +49,10 @@ https://github.com/slackapi/reacjilator
 1. Fowardingの行に出力したURL`https://XXXXXXXXX.ngrok.io`は後ほど使用するのでコピーして保存してください。
 
 ### アプリ起動
+1. 下記コマンドでアプリに必要な依存関係をインストールします。
+    ```
+    npm install
+    ```
 1. 下記コマンドで環境変数を登録します。
     ```
     export SLACK_BOT_TOKEN={SlackAPIのBot User OAuth Token}
